@@ -2,4 +2,4 @@
 
 An online matrix calculator written in javascript.
 
-Live site: https://matthewdulworth.github.io/matrix-operations/
+Live site: https://praneeth6116.github.io/matrix-operations/
